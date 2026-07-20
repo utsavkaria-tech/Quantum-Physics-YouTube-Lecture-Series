@@ -13,7 +13,7 @@ This repository is based on a combination of textbooks, university lecture notes
 
 **Publisher:** Cambridge University Press
 
-**Official Page:** https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/
+**Official Page:** [https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE)
 
 **Status:** Not included (copyrighted)
 
@@ -37,14 +37,14 @@ This repository is based on a combination of textbooks, university lecture notes
 
 **Institution:** California Institute of Technology (Caltech)
 
-**Official Notes:** https://theory.caltech.edu/~preskill/ph219/index.html
+**Official Notes:** https://www.preskill.caltech.edu/ph229/
 
 ---
 
 ## MIT OpenCourseWare – Quantum Physics
 **Institution:** Massachusetts Institute of Technology
 
-**Official Course Collection:** https://ocw.mit.edu/search/?q=quantum%20physics
+**Official Course Collection:** [https://ocw.mit.edu/quantum-physics](https://ocw.mit.edu/search/?q=quantum%20physics)
 
 ---
 

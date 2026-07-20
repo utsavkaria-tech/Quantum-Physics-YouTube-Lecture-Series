@@ -1,3 +1,3 @@
 # Lecture 1
 
-Coming soon.
+Coming soon
